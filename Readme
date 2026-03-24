@@ -1,24 +1,24 @@
-# PyPassword Generator (Python)
+PyPassword Generator (Python)
 
-A simple password generator built using Python.
+A simple password generator built using Python
 
 This program allows the user to create a random password by choosing how many letters, symbols, and numbers they want in the password.
 
-The password is generated using Python's `random` module and is shuffled to improve randomness.
+The password is generated using Python's random module 🎲 and is shuffled to improve randomness.
 
-## Features
+Concepts Practced:
 
-* User chooses number of letters
-* User chooses number of symbols
-* User chooses number of numbers
-* Password characters are randomized
-* Option to generate a new password
-* Simple and user-friendly interaction
-* Input validation for letters greater than 0
+This project helped reinforce several core Python concepts:
+Variables
+Lists
+For loops
+While loops
+Conditional statements (if/else)
+User input
+Random module(random.choice() & random.shuffle())
+String join method
 
-## Example
-
-```
+Example
 Welcome to the PyPassword Generator!
 What is your name?
 Ahmed
@@ -33,31 +33,9 @@ How many numbers would you like?
 Ahmed, your password is: aB3$dK9!q
 
 Keep this password, Ahmed or create a new one? (y/n)
-```
 
-## Concepts Used
-
-* Variables
-* Lists
-* For loops
-* While loops
-* Conditional statements (if/else)
-* User input
-* random.choice()
-* random.shuffle()
-* String join method
-
-## How to Run
-
-1. Make sure Python is installed
-2. Download the file
-3. Open terminal or command prompt
-4. Run:
-
-Try it:
+Try the Game:
 
 Run the live version here:
 
-
-
-Ahmed
+Replit:
