@@ -18,7 +18,8 @@ User input
 Random module(random.choice() & random.shuffle())
 String join method
 
-Example
+Example:
+
 Welcome to the PyPassword Generator!
 What is your name?
 Ahmed
